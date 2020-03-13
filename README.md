@@ -1,5 +1,5 @@
 # Computer-Vision-Final-Project
-This repository contains 
+This repository contains: 
   - The Google Colab notebook used to create a Ship Detection model. 
     See "ComVis_FinalProject.ipynb"
   - The output CoreML model. 
